@@ -1,0 +1,5 @@
+CPU, 73
+SYSCALL, 0
+CPU, 44
+END_IO, 0
+CPU, 58
